@@ -5,3 +5,6 @@ Evidencia de realización del Modulo 1 de Computación en la nube.
 
 Evidencia de realización del Workshop 1 del modulo 2
 [Ver informe](./CarlosAlbertoLopezGonzalez-Modulo2-Workshop1.pdf)
+
+Evidencia del Examen practico del modulo 2
+[Ver informe](./Examen-modulo-2)
