@@ -10,4 +10,4 @@ Evidencia del Examen practico del modulo 2
 [Ver informe](./Modulo2/Examen-modulo-2)
 
 Evidencia Workshop Modulo 3
-[Ver informe](./Modulo3/README.MD)
+[Ver informe](./Modulo3/README.md)
